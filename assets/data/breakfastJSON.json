@@ -1,0 +1,21 @@
+{
+    "breakfast":
+    [
+      {
+        "food": "English Breakfast",
+        "price": 12,
+        "calories": 1200
+      },
+      {
+        "food": "Croissant",
+        "price": 3,
+        "calories": 250
+      },
+      {
+        "food": "Toast, eggs and beans",
+        "price": 8,
+        "calories": 600
+      }
+    ]
+  }
+  

@@ -1,0 +1,21 @@
+{
+    "dinner":
+    [
+      {
+        "food": "Burrito",
+        "price": 9,
+        "calories": 1000
+      },
+      {
+        "food": "Beyond Meat burger and sweet potato fries",
+        "price": 13,
+        "calories": 1300
+      },
+      {
+        "food": "Kimchi fried rice",
+        "price": 10,
+        "calories": 800
+      }
+    ]
+  }
+  

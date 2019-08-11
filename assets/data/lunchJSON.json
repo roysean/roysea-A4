@@ -1,0 +1,21 @@
+{
+    "lunch":
+    [
+      {
+        "food": "Veggie wrap",
+        "price": 14,
+        "calories": 450
+      },
+      {
+        "food": "Burrito bowl",
+        "price": 12,
+        "calories": 900
+      },
+      {
+        "food": "Quesadilla",
+        "price": 9,
+        "calories": 750
+      }
+    ]
+  }
+  
